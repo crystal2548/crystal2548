@@ -11,9 +11,7 @@
 
 <br/>
 
-[![Visits](https://komarev.com/ghpvc/?username=crystal2548&style=for-the-badge&color=00ffb3&label=PROFILE+SCANS)](https://github.com/crystal2548)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/crystal2548?style=for-the-badge&color=00ffb3&labelColor=0d1117&label=FOLLOWERS)](https://github.com/crystal2548)
+
 
 </div>
 
@@ -53,25 +51,25 @@ me.say_hi()
 
 **[ LANGUAGES ]**
 
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FFB3)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FFB3)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFB3)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FFB3)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=00FFB3)
 
-**[ ML / AI STACK ]**
+**[ FRONTEND ]**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00FFB3)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00FFB3)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00FFB3)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00FFB3)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00FFB3)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FFB3)
 
 **[ TOOLS & PLATFORMS ]**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00FFB3)
 ![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FFB3)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FFB3)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00FFB3)
-![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=00FFB3)
+
+**[ CURRENTLY LEARNING ]**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ff6b6b)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=ff6b6b)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=ff6b6b)
 
 </div>
 
@@ -100,7 +98,7 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crystal2548&theme=dark&background=0d1117&border=00FFB3&ring=00FFB3&fire=ff6b6b&currStreakLabel=00FFB3" />
+<img src="https://streak-stats.demolab.com?user=crystal2548&theme=dark&background=0D1117&border=00FFB3&ring=00FFB3&fire=ff6b6b&currStreakLabel=00FFB3&sideLabels=00FFB3&dates=ffffff" />
 
 <br/>
 
